@@ -1,0 +1,15 @@
+@echo off
+cd /d "C:\Users\user\Documents\Obsidian"
+
+REM Check for changes
+git status --porcelain > nul
+if %errorlevel% neq 0 (
+    REM Stage changes
+    git add .
+
+    REM Commit changes
+    git commit -m "Automated backup: %date% %time%"
+
+    REM Push changes
+    git push origin main
+)

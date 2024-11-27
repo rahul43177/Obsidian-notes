@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "b6235258a3cd3e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "29c2479b1cfe31bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e699c0dac8379f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7a3b4935681828",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1667e9e53bef7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1216ed5cbfabf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4776180c592c204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f6dcc60afb4d672",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61e9a01d25bf5491",
+    "type": "split",
+    "children": [
+      {
+        "id": "7423fe1b9cf58b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1ff1041c24089e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bd2b772f971f1af3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d02b174327539d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3988edc557249b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c0cacb560edd5c87",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e699c0dac8379f3",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Welcome.md",
+    "Daily/28-Nov-2024 Thursday.md",
+    "Daily",
+    "nodeJs.md",
+    "Law of Inertia.md",
+    "Three laws of motion.md",
+    "issac  newton.md",
+    "speed.md",
+    "car.md",
+    "4d.md",
+    "time.md",
+    "Obsidian.md",
+    "daily/28-Nov-2024 Thursday.md",
+    "create a link.md",
+    "First note.md",
+    "Python.md",
+    "daily/28-11-2024 Thursday.md",
+    "daily"
+  ]
+}
