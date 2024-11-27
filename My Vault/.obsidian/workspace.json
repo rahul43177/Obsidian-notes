@@ -4,16 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "e3224adadc8b69af",
+        "id": "b6cd2f3a3d98418e",
+        "type": "split",
+        "children": [
+          {
+            "id": "54117a93bc86c027",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2c4727453e2c28ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/React.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "React"
+                }
+              },
+              {
+                "id": "db49d8d4a45cf5df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/React.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "React"
+                }
+              },
+              {
+                "id": "8a6ff3c6175ae1ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/What is React !.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "What is React !"
+                }
+              },
+              {
+                "id": "ccc17d648d9c21f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/React.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "React"
+                },
+                "group": "4cfcac758c3061d6"
+              },
+              {
+                "id": "13d9b169f177ff1d",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "788659b58ed62936",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d97d07872c7887cf",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
+                      "focus": false,
+                      "profile": {
+                        "name": "",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "developerConsole"
+                      },
+                      "serial": {
+                        "columns": 89,
+                        "data": "\u001b[31m[Error: File name cannot contain any of the following characters: * \" \\ / < > : | ?]\r\n\u001b[37mclear\r\n\u001b[31m[ReferenceError: clear is not defined]\r\n\u001b[37mcls\r\n\u001b[31m[ReferenceError: cls is not defined]\r\n\u001b[37mcls\r\n\u001b[31m[ReferenceError: cls is not defined]\r\n\u001b[37mgit status\r\n\u001b[31m[SyntaxError: Unexpected token (1:4)]\r\n\u001b[37mconsole.log(\"Hello\")\r\nHello\r\n\u001b[90mundefined\r\n\u001b[37m2+2\r\n\u001b[33m4\u001b[1B\u001b[1D\u001b[0m",
+                        "rows": 24
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: Developer console"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "ab7f39c2b45416c2",
         "type": "tabs",
         "children": [
           {
-            "id": "772a75a9d984ee85",
+            "id": "39a1f2d0f0d102b0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "React/styling.md",
+                "file": "Namaste React/React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -36,72 +158,16 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000002,
+                  "scale": 1,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of styling"
-            }
-          },
-          {
-            "id": "47673793644d7b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Virtual DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual DOM"
-            }
-          },
-          {
-            "id": "e9d9f8511c047f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Virtual DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual DOM"
-            }
-          },
-          {
-            "id": "722259c83b5c2ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Virtual DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual DOM"
-            }
-          },
-          {
-            "id": "0e979c25aaf3db06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namaste React/First Class.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Class"
-            }
+              "title": "Graph of React"
+            },
+            "group": "4cfcac758c3061d6"
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,26 +312,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "0e979c25aaf3db06",
+  "active": "d97d07872c7887cf",
   "lastOpenFiles": [
-    "attachments/Pasted image 20241128010843.png",
-    "attachments",
-    "Namaste React/First Class.md",
+    "Namaste React/React.md",
+    "Namaste React/What is React !.md",
+    "Namaste React/Difference Between Library and Framework.md",
     "Daily/28-Nov-2024 Thursday.md",
+    "attachments/Pasted image 20241128010843.png",
+    "Untitled.canvas",
+    "Untitled.md",
+    "How to Start Coding A Beginners Guide to Learning Programming - GeeksforGeeks.md",
+    "Avoid These 5 Mistakes as a Web Developer.md",
+    "10 essential VS Code tips & tricks for greater productivity.md",
+    "Hypothesis.md",
+    "attachments",
     "React/new.md",
     "React/styling_new.md",
     "React/styling.md",
@@ -284,16 +360,9 @@
     "React/[flexBox.md",
     "ReactJs.md",
     "Namaste React",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Welcome.md",
     "Daily",
-    "nodeJs.md",
-    "Law of Inertia.md",
-    "Three laws of motion.md",
-    "issac  newton.md",
-    "speed.md",
-    "car.md",
     "daily"
   ]
 }
