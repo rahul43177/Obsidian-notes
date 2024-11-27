@@ -4,94 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "29c2479b1cfe31bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e699c0dac8379f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "14cfea33e263f8ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/ReactLearning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReactLearning"
-            }
-          },
-          {
-            "id": "7bf7074438fe2c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/css.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "css"
-            }
-          },
-          {
-            "id": "9f2644d1661e8c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/ReactLearning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReactLearning"
-            }
-          },
-          {
-            "id": "1a8436438369a8a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/css.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "css"
-            },
-            "group": "456233286f588b00"
-          },
-          {
-            "id": "6de969374844e8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/[flexBox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "[flexBox"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "e3224adadc8b69af",
         "type": "tabs",
         "children": [
@@ -101,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "React/css.md",
+                "file": "React/styling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,11 +41,109 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of css"
-            },
-            "group": "456233286f588b00"
+              "title": "Graph of styling"
+            }
+          },
+          {
+            "id": "47673793644d7b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Virtual DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual DOM"
+            }
+          },
+          {
+            "id": "e9d9f8511c047f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Virtual DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual DOM"
+            }
+          },
+          {
+            "id": "722259c83b5c2ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Virtual DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual DOM"
+            }
+          },
+          {
+            "id": "0e979c25aaf3db06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/tailwind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tailwind"
+            }
+          },
+          {
+            "id": "b66c3dd071941bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/styling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "styling"
+            }
+          },
+          {
+            "id": "7dcd79163a741546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/new.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new"
+            }
+          },
+          {
+            "id": "70e8a2113936e834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/28-Nov-2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28-Nov-2024 Thursday"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -262,9 +272,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "50029051ddc0a71e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -277,21 +297,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f2644d1661e8c31",
+  "active": "70e8a2113936e834",
   "lastOpenFiles": [
-    "React/[flexBox.md",
-    "React/css.md",
+    "React/styling_new.md",
+    "Daily/28-Nov-2024 Thursday.md",
+    "React/new.md",
+    "React/styling.md",
+    "React/tailwind.md",
+    "React/Virtual DOM.md",
+    "React/DOM.md",
+    "React/Untitled.canvas",
+    "asdasd.md",
     "React/ReactLearning.md",
+    "lalla.md",
+    "newnote.md",
     "React/Grid.md",
+    "a;iog.md",
+    "React/flexBox.md",
+    "alignauto.md",
+    "React/[flexBox.md",
     "ReactJs.md",
     "React",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Welcome.md",
-    "Daily/28-Nov-2024 Thursday.md",
     "Daily",
     "nodeJs.md",
     "Law of Inertia.md",
@@ -301,12 +335,6 @@
     "car.md",
     "4d.md",
     "time.md",
-    "Obsidian.md",
-    "daily/28-Nov-2024 Thursday.md",
-    "create a link.md",
-    "First note.md",
-    "Python.md",
-    "daily/28-11-2024 Thursday.md",
     "daily"
   ]
 }
