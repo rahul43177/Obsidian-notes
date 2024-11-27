@@ -16,6 +16,122 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "14cfea33e263f8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/ReactLearning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReactLearning"
+            }
+          },
+          {
+            "id": "7bf7074438fe2c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "css"
+            }
+          },
+          {
+            "id": "9f2644d1661e8c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/ReactLearning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReactLearning"
+            }
+          },
+          {
+            "id": "1a8436438369a8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "css"
+            },
+            "group": "456233286f588b00"
+          },
+          {
+            "id": "6de969374844e8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/[flexBox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[flexBox"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e3224adadc8b69af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772a75a9d984ee85",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "React/css.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000002,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of css"
+            },
+            "group": "456233286f588b00"
           }
         ]
       }
@@ -164,8 +280,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e699c0dac8379f3",
+  "active": "9f2644d1661e8c31",
   "lastOpenFiles": [
+    "React/[flexBox.md",
+    "React/css.md",
+    "React/ReactLearning.md",
+    "React/Grid.md",
+    "ReactJs.md",
+    "React",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Welcome.md",
