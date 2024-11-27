@@ -11,5 +11,5 @@ if %errorlevel% neq 0 (
     git commit -m "Automated backup: %date% %time%"
 
     REM Push changes
-    git push origin main
+    git push origin notes-branch
 )
