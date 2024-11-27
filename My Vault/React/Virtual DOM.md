@@ -1,3 +1,0 @@
-[[React/DOM]]
-
-[[React/tailwind]]
