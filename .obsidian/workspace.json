@@ -11,17 +11,31 @@
             "id": "9b588afbe9e3da63",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/graph.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (graph.json)"
+            }
+          },
+          {
+            "id": "79800255f010078a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "My Vault/Daily/28-Nov-2024 Thursday.md",
+                "file": "Work/JPS Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-Nov-2024 Thursday"
+              "title": "JPS Issues"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +220,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9b588afbe9e3da63",
+  "active": "79800255f010078a",
   "lastOpenFiles": [
-    "My Vault/Daily/Git.md",
+    "Pasted image 20241128131237.png",
+    "Work/JPS Issues.md",
+    "Work",
     "My Vault/Daily/28-Nov-2024 Thursday.md",
+    "Untitled.canvas",
+    "My Vault/Daily/Git.md",
     "My Vault/Namaste React/virtual DOM.md",
     "My Vault/Namaste React/What is React !.md",
-    "Untitled.canvas",
     "2024-11-28.md",
     "My Vault/Namaste React/Difference Between Library and Framework.md",
     "My Vault/Namaste React/React.md"
