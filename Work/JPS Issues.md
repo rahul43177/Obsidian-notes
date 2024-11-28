@@ -1,0 +1,36 @@
+
+## Add new offer 
+![[Pasted image 20241128131237.png]]
+- This got created 
+2/23 campaign -> it is working 
+
+
+
+**Campaign Backup**
+```
+INSERT INTO campaigns ("name",description,start_date,end_date,due_date,approval_cutoff_date,"createdAt",updated_at,created_by,updated_by,status,promo_type,event_id,warning_status,ly_start_date,ly_end_date,campaign_type,batch_process_flag,theme,merchant_ld,promo_build,marketing_ld,created_by_user,updated_by_user) VALUES
+
+('02/03/2025',NULL,'2025-02-03','2025-02-22',NULL,NULL,'2024-10-03 18:40:06.783','2024-10-03 18:40:06.783',199,199,1,NULL,NULL,0,NULL,NULL,'future_dm',0,'Z618','2024-10-25','2025-01-22','2025-01-18','deepa.srinidhi@consultant.joann.com',NULL);
+```
+
+
+
+**Promos Table Backup**
+```
+INSERT INTO promos (title,offer_type,offer_value,status,start_date,end_date,"createdAt",updated_at,created_by,updated_by,campaign_id,best_offers,adgroup_id,actual_store_count,update_flag,promo_type,original_offer,promo_status,zpes_promo_id_for_sku_list,autofeed_date,original_update_flag,"generated",event_id,weighted_cost,zpes_offer,sku_list_update,fixed_price_quantity,min_quantity,bonus_by_quantity,min_dollar_value,max_dollar_value,best_by_offer,quantity_forecast_override,revenue_forecast_override,margin_forecast_override,gm_override,gm_actual,prev_start_date,prev_end_date,offer_percentage,excluded_product_list,zpes_feed_indicator,classification,color_code,confidence,uas,reg_low_amnt,reg_high_amnt,sale_low_amnt,sale_high_amnt,promo_event_type,buy_min_value,get_max_value,promo_build_status,promo_sign_shell,created_by_user,updated_by_user,is_new_promo,is_shared,update_source,is_best_offer) VALUES
+	 ('2% OFF','P',2.0,'PENDING','2025-02-03','2025-02-22','2024-10-21 10:20:41.733','2024-10-21 10:20:41.733',199,199,94,'null',56822,NULL,3,'DM','2% OFF',1,NULL,NULL,3,0,10042,1.7679716,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'HIGH','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true),
+	 ('$ 1','F',1.0,'PENDING','2025-02-04','2025-02-20','2024-11-27 20:07:48.606','2024-11-27 20:07:48.606',241,241,94,'null',57850,NULL,3,'SPC-P','$ 1',1,NULL,NULL,3,0,10044,305.2,NULL,0,1.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true),
+	 ('2% OFF','P',2.0,'PENDING','2025-02-03','2025-02-22','2024-10-21 10:31:36.665','2024-10-21 10:31:36.665',150,150,94,'null',56827,NULL,3,'DM','2% OFF',1,NULL,NULL,3,0,10042,0.76,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'LOW','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true),
+	 ('2% OFF','P',2.0,'PENDING','2025-02-04','2025-02-20','2024-11-28 13:47:00.856','2024-11-28 13:47:00.856',150,150,94,'null',56861,NULL,3,'SPC-P','2% OFF',1,NULL,NULL,3,0,10044,132.3,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'LOW','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,false,0,true),
+	 ('$ 1','F',1.0,'PENDING','2025-02-03','2025-02-22','2024-10-03 18:41:47.633','2024-10-03 18:41:47.633',241,241,94,'null',56866,NULL,3,'DM','$ 1',1,NULL,NULL,3,0,10042,1.5648263,NULL,0,1.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true),
+	 ('25% OFF','P',25.0,'PENDING','2025-02-03','2025-02-22','2024-10-03 18:42:03.367','2024-10-03 18:42:03.367',241,241,94,'null',56867,NULL,3,'DM','25% OFF',1,NULL,NULL,3,0,10042,2.0924754,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'HIGH','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true),
+	 ('$ 2 OFF','A',2.0,'PENDING','2025-02-04','2025-02-20','2024-10-03 18:42:42.119','2024-10-03 18:42:42.119',241,241,94,'null',56868,NULL,3,'SPC-P','$ 2 OFF',1,NULL,NULL,3,0,10044,1.7588345,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true),
+	 ('25% OFF','P',25.0,'PENDING','2025-02-03','2025-02-22','2024-10-03 18:43:12.057','2024-10-03 18:43:12.057',241,241,94,'null',56869,NULL,3,'DM','25% OFF',1,NULL,NULL,3,0,10042,2.3201938,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'HIGH','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true),
+	 ('15% OFF','P',15.0,'PENDING','2025-02-04','2025-02-20','2024-11-01 20:13:28.482','2024-11-01 20:13:28.482',241,241,94,'null',56811,NULL,3,'SPC-P','15% OFF',1,NULL,NULL,3,0,10044,2.5339937,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true),
+	 ('$ 1','F',1.0,'PENDING','2025-02-03','2025-02-22','2024-10-03 19:03:01.934','2024-10-03 19:03:01.934',241,241,94,'null',57973,NULL,3,'DM','$ 1',1,NULL,NULL,3,0,10042,1.6010664,NULL,0,1.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'P',NULL,NULL,'P','Sale',NULL,NULL,true,true,1,true);
+INSERT INTO promos (title,offer_type,offer_value,status,start_date,end_date,"createdAt",updated_at,created_by,updated_by,campaign_id,best_offers,adgroup_id,actual_store_count,update_flag,promo_type,original_offer,promo_status,zpes_promo_id_for_sku_list,autofeed_date,original_update_flag,"generated",event_id,weighted_cost,zpes_offer,sku_list_update,fixed_price_quantity,min_quantity,bonus_by_quantity,min_dollar_value,max_dollar_value,best_by_offer,quantity_forecast_override,revenue_forecast_override,margin_forecast_override,gm_override,gm_actual,prev_start_date,prev_end_date,offer_percentage,excluded_product_list,zpes_feed_indicator,classification,color_code,confidence,uas,reg_low_amnt,reg_high_amnt,sale_low_amnt,sale_high_amnt,promo_event_type,buy_min_value,get_max_value,promo_build_status,promo_sign_shell,created_by_user,updated_by_user,is_new_promo,is_shared,update_source,is_best_offer) VALUES
+	 ('$ 1','F',1.0,'PENDING','2025-02-04','2025-02-20','2024-11-01 20:13:30.555','2024-11-01 20:13:30.555',241,241,94,'null',56866,NULL,3,'SPC-P','$ 1',1,NULL,NULL,3,0,10044,1.5644895,NULL,0,1.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'MEDIUM','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true),
+	 ('2% OFF','P',2.0,'PENDING','2025-02-04','2025-02-20','2024-10-03 19:03:18.928','2024-10-03 19:03:18.928',241,241,94,'null',59348,NULL,3,'SPC-P','2% OFF',1,NULL,NULL,3,0,10044,3.05,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'LOW','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true),
+	 ('25% OFF','P',25.0,'PENDING','2025-02-04','2025-02-20','2024-10-03 19:03:42.152','2024-10-03 19:03:42.152',241,241,94,'null',59273,NULL,3,'SPC-P','25% OFF',1,NULL,NULL,3,0,10044,0.0,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'HIGH','-',NULL,NULL,NULL,NULL,'D',NULL,NULL,'P','SPC2',NULL,NULL,true,true,1,true);
+
+```
