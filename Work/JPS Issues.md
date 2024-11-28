@@ -5,7 +5,7 @@
 2/23 campaign -> it is working 
 
 
-
+These are new 
 **Campaign Backup**
 ```
 INSERT INTO campaigns ("name",description,start_date,end_date,due_date,approval_cutoff_date,"createdAt",updated_at,created_by,updated_by,status,promo_type,event_id,warning_status,ly_start_date,ly_end_date,campaign_type,batch_process_flag,theme,merchant_ld,promo_build,marketing_ld,created_by_user,updated_by_user) VALUES
