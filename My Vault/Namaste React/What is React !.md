@@ -19,3 +19,5 @@ What it does:
     React uses a virtual representation of the DOM to optimize updates, leading to better performance.
 
 [[Difference Between Library and Framework]]
+
+It uses [[virtual DOM]]
