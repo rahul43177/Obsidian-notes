@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3668838b559fcab8",
+        "id": "728e0be500310d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "739ae690f7ea682a",
+            "id": "9b588afbe9e3da63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Vault/Namaste React/Difference Between Library and Framework.md",
+                "file": "My Vault/Daily/28-Nov-2024 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference Between Library and Framework"
-            }
-          },
-          {
-            "id": "ab5215443b327f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Vault/Namaste React/What is React !.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is React !"
-            }
-          },
-          {
-            "id": "77a74ae1b75361fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Vault/Namaste React/virtual DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "virtual DOM"
+              "title": "28-Nov-2024 Thursday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 326.5
   },
   "right": {
     "id": "1c900a040adcba4d",
@@ -180,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -190,8 +161,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -235,13 +206,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "77a74ae1b75361fc",
+  "active": "9b588afbe9e3da63",
   "lastOpenFiles": [
-    "My Vault/Namaste React/What is React !.md",
+    "My Vault/Daily/28-Nov-2024 Thursday.md",
     "My Vault/Namaste React/virtual DOM.md",
+    "My Vault/Namaste React/What is React !.md",
     "Untitled.canvas",
     "2024-11-28.md",
-    "My Vault/Daily/28-Nov-2024 Thursday.md",
     "My Vault/Namaste React/Difference Between Library and Framework.md",
     "My Vault/Namaste React/React.md"
   ]
