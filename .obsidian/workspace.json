@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "044fc1419270ee05",
+    "type": "split",
+    "children": [
+      {
+        "id": "3668838b559fcab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739ae690f7ea682a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Vault/Namaste React/Difference Between Library and Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference Between Library and Framework"
+            }
+          },
+          {
+            "id": "ab5215443b327f31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef283bc167f631b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa99829bd723d64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be39313f205b9a84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64e3a87417309cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b511c18bd47712c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "1c900a040adcba4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c84b1f4f602bd88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9d42ad3bd9d66a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Vault/Namaste React/Difference Between Library and Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Difference Between Library and Framework"
+            }
+          },
+          {
+            "id": "3b51bc3c93ff1f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Vault/Namaste React/Difference Between Library and Framework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Difference Between Library and Framework"
+            }
+          },
+          {
+            "id": "e1f34809fd038a14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f3a5ec3b9f7e5c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Vault/Namaste React/Difference Between Library and Framework.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Difference Between Library and Framework"
+            }
+          },
+          {
+            "id": "716a2b55eca1cf05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "09646f44d92f67ca",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "56d0c3a3c22a3192",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "aa8fcd653b666188",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "be39313f205b9a84",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-11-28.md",
+    "My Vault/Daily/28-Nov-2024 Thursday.md",
+    "My Vault/Namaste React/Difference Between Library and Framework.md",
+    "My Vault/Namaste React/What is React !.md",
+    "My Vault/Namaste React/React.md"
+  ]
+}
