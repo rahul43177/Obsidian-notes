@@ -125,8 +125,93 @@
                   "icon": "terminal",
                   "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
                 }
+              },
+              {
+                "id": "a8e39e8663b257fb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 78,
+                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git statys\r\ngit: 'statys' is not a git command. See 'git --help'.\r\n\r\nThe most similar command is\r\n\u001b[8Cstatus\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>",
+                        "rows": 24
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                }
+              },
+              {
+                "id": "43338bcbb930e66e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 78,
+                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add --",
+                        "rows": 24
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -335,7 +420,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ccc17d648d9c21f9",
+  "active": "43338bcbb930e66e",
   "lastOpenFiles": [
     "Namaste React/What is React !.md",
     "Namaste React/React.md",
