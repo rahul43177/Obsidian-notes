@@ -1,4 +1,4 @@
-### Todo 
+### Todo
 - [ ] Fix the add new offer bug 
 - [ ] Check the promo type U issue 
 - [ ] BJS API response and check the business logic
