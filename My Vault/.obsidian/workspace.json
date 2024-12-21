@@ -4,262 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "bae9baf7f0ad03d6",
+        "id": "ce95d0dda47cca0e",
         "type": "split",
         "children": [
           {
-            "id": "ce95d0dda47cca0e",
-            "type": "split",
-            "dimension": 63.07977736549165,
+            "id": "54117a93bc86c027",
+            "type": "tabs",
+            "dimension": 63.75338753387534,
             "children": [
               {
-                "id": "54117a93bc86c027",
-                "type": "tabs",
-                "dimension": 63.75338753387534,
-                "children": [
-                  {
-                    "id": "2c4727453e2c28ba",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Namaste React/React.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "React"
-                    }
+                "id": "2c4727453e2c28ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/React.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "db49d8d4a45cf5df",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Namaste React/React.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "React"
-                    }
-                  },
-                  {
-                    "id": "8a6ff3c6175ae1ff",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Namaste React/What is React !.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "What is React !"
-                    }
-                  },
-                  {
-                    "id": "ccc17d648d9c21f9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "FastAPI/Virtual Environment.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Virtual Environment"
-                    },
-                    "group": "0a57bfefffead340"
-                  }
-                ],
-                "currentTab": 3
+                  "icon": "lucide-file",
+                  "title": "React"
+                }
               },
               {
-                "id": "7bb1240e13ee6f96",
-                "type": "tabs",
-                "dimension": 36.24661246612466,
-                "children": [
-                  {
-                    "id": "60948edc45172037",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "FastAPI/Virtual Environment.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": true,
-                          "textFadeMultiplier": 0.4,
-                          "nodeSizeMultiplier": 1.8609375,
-                          "lineSizeMultiplier": 2.29479166666667,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1,
-                          "close": true
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Graph of Virtual Environment"
-                    },
-                    "group": "0a57bfefffead340"
-                  }
-                ]
+                "id": "db49d8d4a45cf5df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/React.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "React"
+                }
+              },
+              {
+                "id": "8a6ff3c6175ae1ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Namaste React/What is React !.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "What is React !"
+                }
+              },
+              {
+                "id": "ccc17d648d9c21f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FastAPI/Virtual Environment.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Virtual Environment"
+                },
+                "group": "0a57bfefffead340"
               }
             ],
-            "direction": "vertical"
+            "currentTab": 3
           },
           {
-            "id": "0367319e796795b0",
+            "id": "7bb1240e13ee6f96",
             "type": "tabs",
-            "dimension": 36.92022263450835,
+            "dimension": 36.24661246612466,
             "children": [
               {
-                "id": "269ca72526dfb627",
+                "id": "60948edc45172037",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "terminal:terminal",
+                  "type": "localgraph",
                   "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 160,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   FastAPI/Virtual Environment.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add -",
-                        "rows": 18
-                      }
+                    "file": "FastAPI/Virtual Environment.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0.4,
+                      "nodeSizeMultiplier": 1.8609375,
+                      "lineSizeMultiplier": 2.29479166666667,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
                     }
                   },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
-                }
-              },
-              {
-                "id": "a8e39e8663b257fb",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 160,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git pull \r\nremote: Enumerating objects: 29, done.\r\nremote: Counting objects: 100% (27/27), done.\r\nremote: Compressing objects: 100% (11/11), done.\r\nremote: Total 21 (delta 8), reused 21 (delta 8), pack-reused 0 (from 0)\r\nUnpacking objects: 100% (21/21), 2.50 KiB | 36.00 KiB/s, done.\r\nFrom https://github.com/rahul43177/Obsidian-notes\r\n   aef5af1..3ca16ea  notes-branch -> origin/notes-branch\r\nUpdating aef5af1..3ca16ea\r\nFast-forward\r\n .obsidian/workspace.json                |  18 \u001b[32m+++++++++++\u001b[31m-------\r\n\u001b[0m My Vault/.DS_Store                      | Bin \u001b[31m0 \u001b[0m-> \u001b[32m6148 \u001b[0mbytes\r\n My Vault/FastAPI/FastAPI.md             |   1 \u001b[32m+\r\n\u001b[0m My Vault/FastAPI/Virtual Environment.md |   3 \u001b[32m+++\r\n\u001b[0m Pasted image 20241128131237.png         | Bin \u001b[31m279097 \u001b[0m-> \u001b[32m0 \u001b[0mbytes\r\n 5 files changed, 15 insertions(+), 7 deletions(-)\r\n create mode 100644 My Vault/.DS_Store\r\n create mode 100644 My Vault/FastAPI/FastAPI.md\r\n create mode 100644 My Vault/FastAPI/Virtual Environment.md\r\n delete mode 100644 Pasted image 20241128131237.png\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>",
-                        "rows": 18
-                      }
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
-                }
-              },
-              {
-                "id": "43338bcbb930e66e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\user\\Documents\\Obsidian\\My Vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 160,
-                        "data": "",
-                        "rows": 18
-                      }
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: cmd"
-                }
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Virtual Environment"
+                },
+                "group": "0a57bfefffead340"
               }
             ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -374,9 +233,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "FastAPI/Virtual Environment.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Virtual Environment"
             }
           },
           {
@@ -421,7 +282,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "269ca72526dfb627",
+  "active": "ccc17d648d9c21f9",
   "lastOpenFiles": [
     "FastAPI/Virtual Environment.md",
     "FastAPI/FastAPI.md",
