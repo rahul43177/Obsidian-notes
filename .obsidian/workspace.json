@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Vault/Namaste React/Difference Between Library and Framework.md",
+                "file": "My Vault/FastAPI/Virtual Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference Between Library and Framework"
+              "title": "Virtual Environment"
             }
           }
         ],
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 274.5
   },
   "right": {
     "id": "1c900a040adcba4d",
@@ -222,17 +222,20 @@
   },
   "active": "79800255f010078a",
   "lastOpenFiles": [
+    "My Vault/FastAPI/FastAPI.md",
+    "My Vault/FastAPI/Virtual Environment.md",
+    "My Vault/Namaste React/Difference Between Library and Framework.md",
+    "My Vault/FastAPI",
+    "My Vault/Namaste React/virtual DOM.md",
+    "My Vault/Namaste React/React.md",
     "My Vault/Daily/21-Dec-2024 Saturday.md",
     "Pasted image 20241128131237.png",
-    "My Vault/Namaste React/Difference Between Library and Framework.md",
     "Work/JPS Issues.md",
     "Work",
     "My Vault/Daily/28-Nov-2024 Thursday.md",
     "Untitled.canvas",
     "My Vault/Daily/Git.md",
-    "My Vault/Namaste React/virtual DOM.md",
     "My Vault/Namaste React/What is React !.md",
-    "2024-11-28.md",
-    "My Vault/Namaste React/React.md"
+    "2024-11-28.md"
   ]
 }
