@@ -5,3 +5,4 @@
 - [ ] Namaste React - First class 
 - [ ] DSA - 2 last easy questions of Array 
 - [ ] Make notes of the things 
+- [ ] hi hi 

@@ -57,24 +57,14 @@
                 "id": "ccc17d648d9c21f9",
                 "type": "leaf",
                 "state": {
-                  "type": "diff-view",
+                  "type": "markdown",
                   "state": {
-                    "file": "My Vault/.obsidian/workspace.json",
-                    "staged": false
+                    "file": "Daily/21-Dec-2024 Saturday.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "git-pull-request",
-                  "title": "Diff View (workspace.json)"
-                },
-                "group": "4cfcac758c3061d6"
-              },
-              {
-                "id": "13d9b169f177ff1d",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "21-Dec-2024 Saturday"
                 }
               }
             ],
@@ -199,8 +189,8 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 78,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add --",
+                        "columns": 160,
+                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>cd ..\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nChanges not staged for commit: 'origin/notes-branch'.\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working direcUntracked files:\u001b[31m:   My Vault/.obsidian/workspace.json\r\n\u001b[0m  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git remote -v\r\norigin\u001b[2Chttps://github.com/rahul43177/Obsidian-notes.git (fetch)\r\norigin  https://github.com/rahul43177/Obsidian-notes.git (push)\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>ls -l\r\ntotal 281\r\ndrwxr-xr-x 1 user 197609      0 Dec 21 16:08 'My Vault'\r\n-rw-r--r-- 1 user 197609 279097 Nov 29 00:22 'Pasted image 20241128131237.png'\r\ndrwxr-xr-x 1 user 197609      0 Nov 29 00:26  Work\r\n-rw-r--r-- 1 user 197609    311 Nov 28 00:42  backup.bat.txt\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   My Vault/Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   My Vault/Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>cd \"My Vault\"\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>ls -l\r\ntotal 4\r\ndrwxr-xr-x 1 user 197609 0 Dec 21 16:08  Daily\r\ndrwxr-xr-x 1 user 197609 0 Nov 28 13:03 'Namaste React'\r\ndrwxr-xr-x 1 user 197609 0 Nov 28 02:49  attachments\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\u001b[0m        \u001b[31mmodified:   Namaste React/Difference Between Library and Framework.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\u001b[0m        \u001b[31mmodified:   Namaste React/Difference Between Library and Framework.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obs\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add --",
                         "rows": 24
                       }
                     }
@@ -215,50 +205,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "ab7f39c2b45416c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39a1f2d0f0d102b0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Namaste React/What is React !.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of What is React !"
-            },
-            "group": "4cfcac758c3061d6"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -422,10 +368,11 @@
   },
   "active": "43338bcbb930e66e",
   "lastOpenFiles": [
-    "Namaste React/What is React !.md",
-    "Namaste React/React.md",
+    "Daily/21-Dec-2024 Saturday.md",
     "Namaste React/Difference Between Library and Framework.md",
     "Daily/28-Nov-2024 Thursday.md",
+    "Namaste React/React.md",
+    "Namaste React/What is React !.md",
     "Namaste React/virtual DOM.md",
     "attachments/Pasted image 20241128010843.png",
     "Untitled.canvas",
@@ -451,7 +398,6 @@
     "React/flexBox.md",
     "alignauto.md",
     "React/[flexBox.md",
-    "ReactJs.md",
     "Namaste React",
     "Untitled 1.canvas",
     "Daily",
