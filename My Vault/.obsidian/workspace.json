@@ -8,71 +8,127 @@
         "type": "split",
         "children": [
           {
-            "id": "54117a93bc86c027",
-            "type": "tabs",
+            "id": "ce95d0dda47cca0e",
+            "type": "split",
+            "dimension": 63.07977736549165,
             "children": [
               {
-                "id": "2c4727453e2c28ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Namaste React/React.md",
-                    "mode": "source",
-                    "source": false
+                "id": "54117a93bc86c027",
+                "type": "tabs",
+                "dimension": 63.75338753387534,
+                "children": [
+                  {
+                    "id": "2c4727453e2c28ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Namaste React/React.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "React"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "React"
-                }
+                  {
+                    "id": "db49d8d4a45cf5df",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Namaste React/React.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "React"
+                    }
+                  },
+                  {
+                    "id": "8a6ff3c6175ae1ff",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Namaste React/What is React !.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "What is React !"
+                    }
+                  },
+                  {
+                    "id": "ccc17d648d9c21f9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "FastAPI/Virtual Environment.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Virtual Environment"
+                    },
+                    "group": "0a57bfefffead340"
+                  }
+                ],
+                "currentTab": 3
               },
               {
-                "id": "db49d8d4a45cf5df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Namaste React/React.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "React"
-                }
-              },
-              {
-                "id": "8a6ff3c6175ae1ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Namaste React/What is React !.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "What is React !"
-                }
-              },
-              {
-                "id": "ccc17d648d9c21f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/21-Dec-2024 Saturday.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "21-Dec-2024 Saturday"
-                }
+                "id": "7bb1240e13ee6f96",
+                "type": "tabs",
+                "dimension": 36.24661246612466,
+                "children": [
+                  {
+                    "id": "60948edc45172037",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "FastAPI/Virtual Environment.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0.4,
+                          "nodeSizeMultiplier": 1.8609375,
+                          "lineSizeMultiplier": 2.29479166666667,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of Virtual Environment"
+                    },
+                    "group": "0a57bfefffead340"
+                  }
+                ]
               }
             ],
-            "currentTab": 3
+            "direction": "vertical"
           },
           {
             "id": "0367319e796795b0",
             "type": "tabs",
+            "dimension": 36.92022263450835,
             "children": [
               {
                 "id": "269ca72526dfb627",
@@ -105,9 +161,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 78,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>\u001b[1D",
-                        "rows": 24
+                        "columns": 160,
+                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   FastAPI/Virtual Environment.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add -",
+                        "rows": 18
                       }
                     }
                   },
@@ -147,9 +203,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 78,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git statys\r\ngit: 'statys' is not a git command. See 'git --help'.\r\n\r\nThe most similar command is\r\n\u001b[8Cstatus\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>",
-                        "rows": 24
+                        "columns": 160,
+                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git pull \r\nremote: Enumerating objects: 29, done.\r\nremote: Counting objects: 100% (27/27), done.\r\nremote: Compressing objects: 100% (11/11), done.\r\nremote: Total 21 (delta 8), reused 21 (delta 8), pack-reused 0 (from 0)\r\nUnpacking objects: 100% (21/21), 2.50 KiB | 36.00 KiB/s, done.\r\nFrom https://github.com/rahul43177/Obsidian-notes\r\n   aef5af1..3ca16ea  notes-branch -> origin/notes-branch\r\nUpdating aef5af1..3ca16ea\r\nFast-forward\r\n .obsidian/workspace.json                |  18 \u001b[32m+++++++++++\u001b[31m-------\r\n\u001b[0m My Vault/.DS_Store                      | Bin \u001b[31m0 \u001b[0m-> \u001b[32m6148 \u001b[0mbytes\r\n My Vault/FastAPI/FastAPI.md             |   1 \u001b[32m+\r\n\u001b[0m My Vault/FastAPI/Virtual Environment.md |   3 \u001b[32m+++\r\n\u001b[0m Pasted image 20241128131237.png         | Bin \u001b[31m279097 \u001b[0m-> \u001b[32m0 \u001b[0mbytes\r\n 5 files changed, 15 insertions(+), 7 deletions(-)\r\n create mode 100644 My Vault/.DS_Store\r\n create mode 100644 My Vault/FastAPI/FastAPI.md\r\n create mode 100644 My Vault/FastAPI/Virtual Environment.md\r\n delete mode 100644 Pasted image 20241128131237.png\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>",
+                        "rows": 18
                       }
                     }
                   },
@@ -190,18 +246,17 @@
                       },
                       "serial": {
                         "columns": 160,
-                        "data": "Microsoft Windows [Version 10.0.27749.1000]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>cd ..\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nChanges not staged for commit: 'origin/notes-branch'.\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working direcUntracked files:\u001b[31m:   My Vault/.obsidian/workspace.json\r\n\u001b[0m  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git remote -v\r\norigin\u001b[2Chttps://github.com/rahul43177/Obsidian-notes.git (fetch)\r\norigin  https://github.com/rahul43177/Obsidian-notes.git (push)\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>ls -l\r\ntotal 281\r\ndrwxr-xr-x 1 user 197609      0 Dec 21 16:08 'My Vault'\r\n-rw-r--r-- 1 user 197609 279097 Nov 29 00:22 'Pasted image 20241128131237.png'\r\ndrwxr-xr-x 1 user 197609      0 Nov 29 00:26  Work\r\n-rw-r--r-- 1 user 197609    311 Nov 28 00:42  backup.bat.txt\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   My Vault/Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   My Vault/.obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   My Vault/Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mMy Vault/Daily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian>cd \"My Vault\"\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>ls -l\r\ntotal 4\r\ndrwxr-xr-x 1 user 197609 0 Dec 21 16:08  Daily\r\ndrwxr-xr-x 1 user 197609 0 Nov 28 13:03 'Namaste React'\r\ndrwxr-xr-x 1 user 197609 0 Nov 28 02:49  attachments\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\u001b[0m        \u001b[31mmodified:   Namaste React/Difference Between Library and Framework.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\u001b[0m        \u001b[31mmodified:   Namaste React/Difference Between Library and Framework.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obs\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git status\r\nOn branch notes-branch\r\nYour branch is up to date with 'origin/notes-branch'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Daily/28-Nov-2024 Thursday.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31mDaily/21-Dec-2024 Saturday.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\user\\Documents\\Obsidian\\My Vault>git add --",
-                        "rows": 24
+                        "data": "",
+                        "rows": 18
                       }
                     }
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: cmd"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -366,8 +421,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "43338bcbb930e66e",
+  "active": "269ca72526dfb627",
   "lastOpenFiles": [
+    "FastAPI/Virtual Environment.md",
+    "FastAPI/FastAPI.md",
+    "FastAPI",
     "Daily/21-Dec-2024 Saturday.md",
     "Namaste React/Difference Between Library and Framework.md",
     "Daily/28-Nov-2024 Thursday.md",
@@ -396,8 +454,6 @@
     "React/Grid.md",
     "a;iog.md",
     "React/flexBox.md",
-    "alignauto.md",
-    "React/[flexBox.md",
     "Namaste React",
     "Untitled 1.canvas",
     "Daily",
