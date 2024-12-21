@@ -32,10 +32,55 @@
               },
               "icon": "lucide-file",
               "title": "Virtual Environment"
-            }
+            },
+            "group": "53c49a1507fe2cf1"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "900af95220ae3393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fc8a1ca14bdf45e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "My Vault/FastAPI/Virtual Environment.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 2.72206624348958,
+                  "lineSizeMultiplier": 3.47652587890625,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3667954304165209,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Virtual Environment"
+            },
+            "group": "53c49a1507fe2cf1"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +267,9 @@
   },
   "active": "79800255f010078a",
   "lastOpenFiles": [
-    "My Vault/FastAPI/FastAPI.md",
+    "My Vault/FastAPI/Basic Setup for FastAPI.md",
     "My Vault/FastAPI/Virtual Environment.md",
+    "My Vault/FastAPI/FastAPI.md",
     "My Vault/Namaste React/Difference Between Library and Framework.md",
     "My Vault/FastAPI",
     "My Vault/Namaste React/virtual DOM.md",
